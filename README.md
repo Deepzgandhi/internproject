@@ -1,1 +1,1 @@
-# internproject
+Project: Its a complete website for an Online Pet breeder, that aims to showcase the various types and breeds of existing Pets along with the detailed descriptions of thier behaviours and physical characteristics, providing insight into thier personalities and care needs.
